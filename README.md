@@ -94,15 +94,7 @@ jupyter notebook
 **4. Open and run**
 - Start with `SHP.ipynb` for EDA & preprocessing
 - Then `ML__House_Prediction.ipynb` for model training & comparison
-
----
-
-## 📊 Dashboard Preview
-
-> 📸 Add your screenshots here
-```markdown
-![Model Comparison](House_Predictor_website(img_video)/screenshot.png)
-```
+`
 
 ---
 
